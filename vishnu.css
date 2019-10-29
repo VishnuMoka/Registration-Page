@@ -1,0 +1,326 @@
+.navbar{
+  background: #fc7703;
+  margin-bottom: 0px;
+}
+.jumbotron{
+  padding-left: 0px;
+}
+.num{
+  font-family: 'Oswald', sans-serif;
+  color: white;
+}
+.call{
+  font-family: 'Oswald', sans-serif;
+  color: black;
+}
+#logo{
+  font-family: 'Oswald', sans-serif;
+  color: #fc7703;
+}
+.home{
+  color: grey;
+  margin-right: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+#con{
+  color: black;
+}
+h2{
+  color: #fc7703;
+}
+#name{
+  width: 80%;
+  background: #ebf2ef;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  display: inline-block;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+.tact{
+  border-bottom: 3px solid black;
+  width: 80%
+}
+.phone{
+  width: 40%;
+  background: #ebf2ef;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  display: inline-block;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+#subject{
+  background: #ebf2ef;
+  height: 100px;
+  width: 80%;
+  background: #ebf2ef;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  display: inline-block;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+.button{
+background-color: #fc7703;
+border: none;
+color: white;
+padding: 10px 20px;
+text-align: center;
+font-size: 15px;
+margin: 4px 2px;
+cursor: pointer;
+}
+.txt{
+  margin-bottom: 20px;
+}
+.dropbtn {
+  background-color: transparent;
+  color: black;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  position:absolute; top:70px; left:100px;
+}
+
+.dropdown {
+  position: absolute; top:80px; left:600px;
+  display: inline-block;
+  width: 15px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute; top:115px; left:100px;
+  background-color: #transparent;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {color: black;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  background: white;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #transparent;
+  border-bottom: 3px solid orange;
+}
+
+.dropbtn1 {
+  background-color: transparent;
+  color: black;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  position:absolute; top:70px; left:100px;
+}
+.dropdown1 {
+  position: absolute; top:80px; left:700px;
+  display: inline-block;
+  width: 15px;
+}
+
+.dropdown-content1 {
+  display: none;
+  position: absolute; top:115px; left:100px;
+  background-color: #transparent;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content1 a {
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content1 a:hover {color: black;}
+
+.dropdown1:hover .dropdown-content1 {
+  display: block;
+  background: white;
+}
+
+.dropdown1:hover .dropbtn1 {
+  background-color: #transparent;
+  border-bottom: 3px solid orange;
+}
+
+.dropbtn2 {
+  background-color: transparent;
+  color: black;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  position:absolute; top:70px; left:200px;
+}
+
+.dropdown2 {
+  position: absolute; top:80px; left:700px;
+  display: inline-block;
+  width: 15px;
+}
+
+.dropdown-content2 {
+  display: none;
+  position: absolute; top:115px; left:200px;
+  background-color: #transparent;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content2 a {
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content2 a:hover {color: black;}
+
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+  background: white;
+}
+
+.dropdown2:hover .dropbtn2 {
+  background-color: #transparent;
+  border-bottom: 3px solid orange;
+}
+
+.dropbtn3 {
+  background-color: transparent;
+  color: black;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  position:absolute; top:70px; left:200px;
+}
+.dropdown3 {
+  position: absolute; top:80px; left:800px;
+  display: inline-block;
+  width: 15px;
+}
+
+.dropdown-content3 {
+  display: none;
+  position: absolute; top:115px; left:200px;
+  background-color: #transparent;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content3 a {
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content3 a:hover {color: black;}
+
+.dropdown3:hover .dropdown-content3 {
+  display: block;
+  background: white;
+}
+
+.dropdown3:hover .dropbtn3 {
+  background-color: #transparent;
+  border-bottom: 3px solid orange;
+}
+
+.dropbtn4 {
+  background-color: transparent;
+  color: black;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  position:absolute; top:70px; left:200px;
+}
+.dropdown4 {
+  position: absolute; top:80px; left:900px;
+  display: inline-block;
+  width: 15px;
+}
+
+.dropdown-content4 {
+  display: none;
+  position: absolute; top:115px; left:200px;
+  background-color: #transparent;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content4 a {
+  color: grey;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content4 a:hover {color: black;}
+
+.dropdown4:hover .dropdown-content4 {
+  display: block;
+  background: white;
+}
+
+.dropdown4:hover .dropbtn4 {
+  background-color: #transparent;
+  border-bottom: 3px solid orange;
+}
+.fa {
+  padding: 10px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px 2px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
